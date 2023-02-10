@@ -1,14 +1,15 @@
 ---
 fullname: Axel Benoist
-role: Chargé de déploiement
 domaine: Déploiement
+role: Chargé de déploiement
 missions:
   - start: 2022-01-10
-    end: 2024-01-10
+    end: 2022-10-31
     status: admin
     employer: DRIEAT
 startups:
   - chauffage-urbain
+competences:
+  - Croissance
 ---
-
-Chargé de mission en charge du développement des énergies renouvelables
+Chargé de développement des énergies renouvelables
