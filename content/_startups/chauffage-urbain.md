@@ -8,7 +8,10 @@ sponsors:
 incubator: mtes
 link: https://france-chaleur-urbaine.beta.gouv.fr/
 repository: https://github.com/betagouv/france-chaleur-urbaine
-contact: florence.levy@developpement-durable.gouv.fr
+contact: france-chaleur-urbaine@developpement-durable.gouv.fr
+usertypes:
+  - particulier
+  - collectivite-territoriale
 stats: true
 phases:
   - name: investigation
@@ -19,9 +22,6 @@ phases:
     comment: lancement du prototype no-code en février 2021
   - name: acceleration
     start: 2022-07-01
-usertypes:
-  - particulier
-  - collectivite-territoriale
 ---
 # Le problème
 
@@ -88,8 +88,6 @@ Mi-2022, France Chaleur Urbaine est lauréat de France Relance au titre du guich
 
 Ces nouveaux moyens permettent d'élargir le service, qui ne se limite plus aux copropriétés mais cible désormais aussi le secteur tertiaire. Un volet à destination des collectivités et exploitants est également développé, pour les accompagner dans le déploiement de leurs réseaux.
 
-
-
 ### Stratégie
 
 Le déploiement national de France Chaleur Urbaine passe par : 
@@ -102,4 +100,3 @@ Le déploiement national de France Chaleur Urbaine passe par :
 * l'organisation régulière d'un comité des partenaires réunissant les principaux acteurs de la filière, ainsi que d'ateliers ouverts aux différentes parties prenantes.
 
 Le raccordement à un réseau de chaleur nécessitant un temps relativement long (plusieurs mois), nous estimons l’impact par le nombre de demandes de contact reçues et transférées aux gestionnaires des réseaux, et par le nombre de collectivités et exploitants partenaires du service. La quantité de CO2 évitée par les raccordements à l'étude sera également évaluée.
-
